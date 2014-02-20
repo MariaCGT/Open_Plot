@@ -1,4 +1,11 @@
-Open_Plot
-=========
+# OPEN_PLOT
 
-Aplicación para obtener datos de una parcela
+####Descripcion
+
+>*Open_plot es una aplicacion que 
+>te permite situarte en un mapa, 
+>seleccionar una parcela y obtener datos de ella
+>tales como superficie, perimetro, metros de fachada,...
+
+
+
